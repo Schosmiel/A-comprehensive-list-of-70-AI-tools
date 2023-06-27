@@ -84,6 +84,6 @@ This repository is a comprehensive list of 70 powerful AI tools that anyone can 
 
 # 3️⃣ Contribution
 
-We would love your help in making this repository even better! If you know of an amazing AI tool that isn't listed here, or if you have any suggestions for improvement, feel free to [open an issue](https://github.com/boudribila/AI-Learning-Resources/issues) or [submit a pull request](https://github.com/boudribila/AI-Learning-Resources/pulls).
+We would love your help in making this repository even better! If you know of an amazing AI tool that isn't listed here, or if you have any suggestions for improvement, feel free to [open an issue](https://github.com/Schosmiel/A-comprehensive-list-of-70-AI-tools.git) or [submit a pull request](https://github.com/Schosmiel/A-comprehensive-list-of-70-AI-tools.git).
 
 Let's collaborate to make this AI tools list the ultimate resource on GitHub! 🚀
